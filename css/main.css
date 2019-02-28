@@ -18,5 +18,9 @@ html {
 
 .btn:hover {
   background-color: darkgreen;
-  border-color: transparent;
+  border-color: darkgreen;
+}
+
+.btn-ghost:hover {
+  background-color: transparent;
 }
